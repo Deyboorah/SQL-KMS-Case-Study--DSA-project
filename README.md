@@ -67,7 +67,7 @@ From the above, some key insights generated include:
   9. The most profitable consumer customer should be targeted and given exclusive deals to encourage increase in purchase.
   10. Customers returned items mostly from the corporate segment. The resons for item being returned should be looked into for all the
       segments and resolved to reduce loss and meet customers' expectations.
-  11. Shipping cost alignment with order priority: The company did not appropriately spend shipping cost based on order priority.
+  11. **Shipping cost alignment with order priority:** The company did not appropriately spend shipping cost based on order priority.
       This is because express air, which should be for citical order priority, requiring urgency, was used for low order priority in
       some cases and Delivery truck is also used for critical order priority in some cases. This shows a disalignment between order priority,
       the ship mode and even the order count.
